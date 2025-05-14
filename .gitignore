@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+uploads/
+*.log
+
+# VSCode
+.vscode/
+venv/
+.env
